@@ -7,3 +7,6 @@
 [submodule "vimfiles/bundle/minibufexpl.vim"]
 	path = vimfiles/bundle/minibufexpl.vim
 	url = https://github.com/fholgado/minibufexpl.vim
+[submodule "vimfiles/bundle/snipmate.vim"]
+	path = vimfiles/bundle/snipmate.vim
+	url = https://github.com/msanders/snipmate.vim

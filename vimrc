@@ -1,5 +1,5 @@
 execute pathogen#infect()
-
+let g:snippets_dir="~/vimfiles/bundle/snipmate.vim/snippets"
 set tabstop=4
 set shiftwidth=4
 set expandtab                   "replace tabs by spaces
